@@ -1,0 +1,1 @@
+{"Solid":{"-2_-0.333":{"direction":90,"physics":"Solid","type":"supply_crate"}},"Decoration":{},"Nonsolid":{}}
